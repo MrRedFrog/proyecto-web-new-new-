@@ -1,0 +1,20 @@
+.container-fluid{
+    margin-top: 20px;
+}
+#navbar{
+    justify-content: center;
+}
+#sign{
+    align-items: center;
+    text-align: center;
+}
+#btnn{
+    text-align: center;
+}
+#gen{
+    text-align: center;
+}
+#btninic{
+    justify-content: left;
+    text-align: left;
+}
