@@ -201,3 +201,7 @@ width: auto;
         max-width: 1200px;
         margin: 0 auto;
 }
+.grid-item img {
+    height: 280px; /* Cambia 200px por el valor que desees */
+    width: auto; /* Para mantener la proporción original de la imagen */
+}

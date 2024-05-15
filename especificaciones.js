@@ -36,7 +36,6 @@ function validar(){
                             document.getElementById("celular").style.border = "1px solid lightgrey"
                             document.getElementById("resultado").innerHTML = "<div class='alert alert-success w-50 mx-auto text-center'>" +
                             "Campos validados correctamente!</div>"
-
                         }else{
                             console.log("tu celular debe tener un largo de 9 y 12 caracteres")
                             document.getElementById("celular").style.border = "1px solid red"
